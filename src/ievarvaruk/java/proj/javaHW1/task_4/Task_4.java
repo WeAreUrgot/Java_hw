@@ -1,6 +1,8 @@
-package ievarvaruk.java.proj.javaHW1.task_4;
+package ievarvaruk.java.proj.JavaHW1;
 
-public class Task_4 {
+//  имена пакетов с маленькой буквы
+
+public class Task4 {
     public static void main (String[] args) {
         System.out.println("Welcome, Master " + args[0]);
 
