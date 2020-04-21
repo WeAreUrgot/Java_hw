@@ -1,9 +1,0 @@
-// создавай файл через идею, только здесь первой строкой будет пакет, т.е. "package ...."
-//  имена пакетов с маленькой буквы
-
-public class Welcome {
-	public static void main (String[] args) {
-		System.out.println("Welcome, Master " + args[0]);
-
-	}
-}
