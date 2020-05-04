@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_5;
+package ievarvaruk.java.proj.javahw2.task_5;
 
 import java.text.DecimalFormat; // Да, да, я знаю, что мы этого не проходили. Но меня числа в результате бесили!
 

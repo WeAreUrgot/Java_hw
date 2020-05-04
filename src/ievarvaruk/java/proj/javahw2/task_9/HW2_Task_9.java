@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_9;
+package ievarvaruk.java.proj.javahw2.task_9;
 //Task 9
 //      И ещё можете попрактиковаться и нарисовать оставшиеся 2 треугольника
 //    *  (1)

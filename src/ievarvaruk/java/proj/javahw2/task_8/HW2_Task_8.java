@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_8;
+package ievarvaruk.java.proj.javahw2.task_8;
 
 //Task 8
 // Даны числа от 0 до 100.

@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_7;
+package ievarvaruk.java.proj.javahw2.task_7;
 
 public class HW2_Task_7 {
     public static void main(String[] args) {

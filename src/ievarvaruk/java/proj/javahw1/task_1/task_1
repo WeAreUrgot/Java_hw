@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW1.task_1;
+package ievarvaruk.java.proj.javahw1.task_1;
 
 public class task_1 {
     public static void main (String[] args) {

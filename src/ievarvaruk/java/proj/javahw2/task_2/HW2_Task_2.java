@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_2;
+package ievarvaruk.java.proj.javahw2.task_2;
 
 //Task 2
 //Одноклеточная амеба каждые 3 часа делится на 2 клетки. Определить,

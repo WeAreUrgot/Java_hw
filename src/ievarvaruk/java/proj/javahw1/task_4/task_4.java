@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW1.task_4;
+package ievarvaruk.java.proj.javahw1.task_4;
 
 //  имена пакетов с маленькой буквы
 

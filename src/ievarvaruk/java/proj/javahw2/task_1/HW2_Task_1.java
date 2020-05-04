@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_1;
+package ievarvaruk.java.proj.javahw2.task_1;
 
 //Task 1
 //Начав тренировки, спортсмен в первый день пробежал 10 км. Каждый

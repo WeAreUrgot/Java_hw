@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_6;
+package ievarvaruk.java.proj.javahw2.task_6;
 
 //Task 6
 //Напишите программу вывода всех четных чисел от 2 до 100 включительно

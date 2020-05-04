@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW2.task_3;
+package ievarvaruk.java.proj.javahw2.task_3;
 
 //Task 3
 //Вычислить: 1+2+4+8+...+256

@@ -1,5 +1,5 @@
-package ievarvaruk.java.proj.javaHW2.task_4;
-
+package ievarvaruk.java.proj.javahw2.task_4;
+//Составьте программу, вычисляющую A*B, не пользуясь операцией умножения.
 public class HW2_Task_4 {
     public static void main(String[] args) {
         int x = Integer.valueOf(args[0]);
