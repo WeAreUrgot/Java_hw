@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW3.task_7;
+package ievarvaruk.java.proj.javahw3.task_7;
 
 import java.util.Arrays;
 

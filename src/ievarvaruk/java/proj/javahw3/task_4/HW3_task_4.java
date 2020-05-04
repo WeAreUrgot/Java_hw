@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW3.task_4;
+package ievarvaruk.java.proj.javahw3.task_4;
 
 //При помощи двумерного массива вывести на экран таблицу умножения
 

@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW3.task_3;// имена пакетов с маленькой буквы
+package ievarvaruk.java.proj.javahw3.task_3;// имена пакетов с маленькой буквы
 //Task 3
 //Есть массив чисел. Заменить каждый нечетный элемент массива на 0.
 

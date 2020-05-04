@@ -1,4 +1,4 @@
-package ievarvaruk.java.proj.javaHW3.task_2; // имена пакетов с маленькой буквы
+package ievarvaruk.java.proj.javahw3.task_2; // имена пакетов с маленькой буквы
 
 //Есть массив чисел. Найти среднее арифметическое число элементов массива
 
