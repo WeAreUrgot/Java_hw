@@ -4,12 +4,12 @@ public class Comp implements CompInt {
 
 //
     @Override
-    public void compOn() {
+    public void on() {
         System.out.println("Компьютер включен ");
     }
 //
     @Override
-    public void compOff() {
+    public void off() {
         System.out.println("Компьютер выключен ");
     }
 //
